@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "pengingat_pr (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

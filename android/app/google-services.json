@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "155988113639",
+    "project_id": "pengingat-pr",
+    "storage_bucket": "pengingat-pr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155988113639:android:7f9726e67b1c57c7688a42",
+        "android_client_info": {
+          "package_name": "com.example.pengingat_pr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155988113639-a7jl14nrhftgl9v0f776koarmor4b5ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pengingat_pr",
+            "certificate_hash": "38ee2470d064f1197c8e720297578684c685dafc"
+          }
+        },
+        {
+          "client_id": "155988113639-hdshp24ibnmo9t3tbv7q1qrcte4s2si9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pengingat_pr",
+            "certificate_hash": "d78751148e5fd7a12c54bb40ba84e75270b85b34"
+          }
+        },
+        {
+          "client_id": "155988113639-hjpbvpgjp6p8l5hkkcsonohlpjggbgj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALJ6XoxvE1tvQ9YCJtoI_ETQzRmXBd3b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155988113639-hjpbvpgjp6p8l5hkkcsonohlpjggbgj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155988113639-tcfj82olnstbfdsrops54mir3f587f0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pengingatPr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
